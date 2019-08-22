@@ -1,4 +1,4 @@
-#TLT Braintree with 3D Secure 1.0/2.0 support for Opencart 2.x
+## TLT Braintree with 3D Secure 1.0/2.0 support for Opencart 2.3
 
 ---------
 IMPORTANT
